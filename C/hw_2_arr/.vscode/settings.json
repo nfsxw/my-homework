@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "input_array.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}

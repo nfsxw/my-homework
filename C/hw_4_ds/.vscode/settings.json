@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stack_lib.h": "c",
+        "cstdio": "c"
+    }
+}
